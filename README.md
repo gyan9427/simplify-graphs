@@ -1,2 +1,2 @@
 # simplify-graphs
-A curated collection of awesome graphs to enhance interactive data presentation experience. 
+A D3.js based collection of awesome graphs to enhance interactive data presentation experience. 
